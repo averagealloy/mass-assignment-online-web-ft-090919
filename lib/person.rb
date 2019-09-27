@@ -1,5 +1,5 @@
 class Person
   #your code here
 
-  att
+  attr_access
 end
